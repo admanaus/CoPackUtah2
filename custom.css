@@ -17,8 +17,12 @@ h4 {
     font-weight: 400;
     margin-bottom: 30px;
 }
+.transparent{
+    background-color: transparent;
+}
 .jumbotron {
     background-image: url(images/grain.jpg);
+
     background-size: cover;
     color: #fff;
     padding: 100px 25px;
